@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:6a0dad,100:bb86fc&height=200&section=header&text=Hello%20%20World&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:FF69B4,100:FFC0CB&height=200&section=header&text=Hello%20World&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-# 💜 I'm ATHRAA
+# 🎀 I'm ATHRAA
 
-### 👩🏻‍💻 Computer Science Student 
+### 👩🏻‍💻 Computer Science Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Java+%7C+C%2B%2B+Developer;Web+Developer+in+Progress;Learning%2C+Building%2C+Growing+%F0%9F%92%9C" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Java+%7C+C%2B%2B+Developer;Web+Developer+in+Progress;Learning%2C+Building%2C+Growing+%F0%9F%8E%80" alt="Typing SVG"/>
 
 <br>
 
@@ -23,7 +23,7 @@
 * 🌐 I build web interfaces using **HTML, CSS, and JavaScript**.
 * 🌱 Always learning and improving my programming skills.
 * ✨ My goal is to turn ideas into useful and creative applications.
-* 💜 Welcome to my little corner of GitHub!
+* 🎀 Welcome to my little corner of GitHub!
 
 ---
 
@@ -31,11 +31,11 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Java-6A0DAD?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/C%2B%2B-7B2CBF?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-<img src="https://img.shields.io/badge/HTML5-9D4EDD?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-BB86FC?style=for-the-badge&logo=css3&logoColor=171717" alt="CSS3"/>
-<img src="https://img.shields.io/badge/JavaScript-5A189A?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Java-FF69B4?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/C%2B%2B-FF85A1?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/HTML5-F78FB3?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-FFC0CB?style=for-the-badge&logo=css3&logoColor=171717" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-E75480?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
 
 </div>
 
@@ -45,10 +45,10 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-6A0DAD?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-<img src="https://img.shields.io/badge/Dev--C%2B%2B-7B2CBF?style=flat-square&logo=cplusplus&logoColor=white" alt="Dev-C++"/>
-<img src="https://img.shields.io/badge/Git-9D4EDD?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-BB86FC?style=flat-square&logo=github&logoColor=171717" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-FF69B4?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Dev--C%2B%2B-FF85A1?style=flat-square&logo=cplusplus&logoColor=white" alt="Dev-C++"/>
+<img src="https://img.shields.io/badge/Git-F78FB3?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-FFC0CB?style=flat-square&logo=github&logoColor=171717" alt="GitHub"/>
 
 </div>
 
@@ -69,19 +69,19 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=rose&hide_border=true&count_private=true" alt="GitHub Stats"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=rose&hide_border=true" alt="Top Languages"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=midnight-purple&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=rose&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-## 🌌 My Coding Mood
+## 🌸 My Coding Mood
 
 <div align="center">
 
@@ -89,7 +89,7 @@
 
 ### `Eat 🍜 | Code 💻 | Learn 📚 | Repeat 🔁`
 
-*"Every expert was once a beginner."* 💜
+*"Every expert was once a beginner."* 🎀
 
 </div>
 
@@ -97,12 +97,12 @@
 
 <div align="center">
 
-### 💜 Thanks for visiting my profile!
+### 💗 Thanks for visiting my profile!
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=6a0dad&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=FF69B4&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb86fc,50:6a0dad,100:0d0d0d&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0CB,50:FF69B4,100:0d0d0d&height=100&section=footer" width="100%"/>
 
 </div>
