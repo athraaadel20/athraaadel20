@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:FF69B4,100:FFC0CB&height=200&section=header&text=Hello%20World&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-# 🎀 I'm ATHRAA
+# 🌸 I'm ATHRAA
 
 ### 👩🏻‍💻 Computer Science Student
 
